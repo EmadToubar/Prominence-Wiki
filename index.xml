@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Prominence II: Hasturian Era Wiki</title>
+      <link>https://emadtoubar.github.io/Prominence-Wiki</link>
+      <description>Last 10 notes on Prominence II: Hasturian Era Wiki</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Behind-the-Scenes Mods</title>
+    <link>https://emadtoubar.github.io/Prominence-Wiki/Mods/Behind-the-Scenes-Mods</link>
+    <guid>https://emadtoubar.github.io/Prominence-Wiki/Mods/Behind-the-Scenes-Mods</guid>
+    <description><![CDATA[ Behind-the-Scenes Mods Plumbing: shared code libraries, compatibility patches, and bugfixes. ]]></description>
+    <pubDate>Sun, 19 Jul 2026 13:42:07 GMT</pubDate>
+  </item><item>
+    <title>Building &amp; Decoration Mods</title>
+    <link>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration-Mods</link>
+    <guid>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration-Mods</guid>
+    <description><![CDATA[ Building &amp; Decoration Mods Chipped / Chipped-Express Chipped adds a huge library of matching decorative block variants; Chipped-Express lets you autocraft those blocks through AE2 or Create instead of clicking a crafting table 200 times. ]]></description>
+    <pubDate>Sun, 19 Jul 2026 13:42:07 GMT</pubDate>
+  </item><item>
+    <title>Amendments</title>
+    <link>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Amendments</link>
+    <guid>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Amendments</guid>
+    <description><![CDATA[ Amendments Amendments (by MehVahdJukaar) is a large grab-bag of small vanilla-block tweaks rather than a themed content set, and the pack’s amendments-common.json/amendments-client.json have nearly every tweak turned on. ]]></description>
+    <pubDate>Sun, 19 Jul 2026 13:42:07 GMT</pubDate>
+  </item><item>
+    <title>Block Swap</title>
+    <link>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Block-Swap</link>
+    <guid>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Block-Swap</guid>
+    <description><![CDATA[ Block Swap Block Swap (by Corgi Taco) is a small utility that silently replaces one block with another, either when a chunk loads/regenerates (retro_gen = true) or via an ID remap table for blocks whose registry name has changed. ]]></description>
+    <pubDate>Sun, 19 Jul 2026 13:42:07 GMT</pubDate>
+  </item><item>
+    <title>Build Guide</title>
+    <link>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Build-Guide</link>
+    <guid>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Build-Guide</guid>
+    <description><![CDATA[ Build Guide Build Guide (brentmaas) is a client-side only mod (81 lang entries, mostly UI text) that projects wireframe shapes — circles and spheres — into the world so a player can see exactly where to place blocks for a perfect curve. ]]></description>
+    <pubDate>Sun, 19 Jul 2026 13:42:07 GMT</pubDate>
+  </item><item>
+    <title>Building Wands</title>
+    <link>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Building-Wands</link>
+    <guid>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Building-Wands</guid>
+    <description><![CDATA[ Building Wands Building Wands (nicguzzo) lets a player place a whole run of matching blocks from one item use instead of one block at a time — the classic “point at a wall, extend it 20 blocks” tool. ]]></description>
+    <pubDate>Sun, 19 Jul 2026 13:42:07 GMT</pubDate>
+  </item><item>
+    <title>Chipped-Express</title>
+    <link>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Chipped-Express</link>
+    <guid>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Chipped-Express</guid>
+    <description><![CDATA[ Chipped-Express Chipped-Express (by DevDyna, v1.3.2) is a small, purely-functional companion to Chipped. ]]></description>
+    <pubDate>Sun, 19 Jul 2026 13:42:07 GMT</pubDate>
+  </item><item>
+    <title>Chipped</title>
+    <link>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Chipped</link>
+    <guid>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Chipped</guid>
+    <description><![CDATA[ Chipped Chipped (by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat — tagline “Every block needs a friend!”) is the single largest content mod in the Building &amp; Decoration category: its en_us.json carries 7,258 lang entries. ]]></description>
+    <pubDate>Sun, 19 Jul 2026 13:42:07 GMT</pubDate>
+  </item><item>
+    <title>Connectible Chains</title>
+    <link>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Connectible-Chains</link>
+    <guid>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Connectible-Chains</guid>
+    <description><![CDATA[ Connectible Chains Connectible Chains (by legoatoom) lets you shift-click a chain item between two fence posts or walls to string up a decorative catenary — the chain physically sags between the two points instead of rendering as a straight line. ]]></description>
+    <pubDate>Sun, 19 Jul 2026 13:42:07 GMT</pubDate>
+  </item><item>
+    <title>Connectivity Mod</title>
+    <link>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Connectivity-Mod</link>
+    <guid>https://emadtoubar.github.io/Prominence-Wiki/Mods/Building--and--Decoration/Connectivity-Mod</guid>
+    <description><![CDATA[ Connectivity Mod Despite the name suggesting a block-connection/decoration mod (and its placement in this category), Connectivity (by Someaddons) is actually a network stability fix — it has nothing to do with building or decoration. ]]></description>
+    <pubDate>Sun, 19 Jul 2026 13:42:07 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
